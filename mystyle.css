@@ -1,0 +1,81 @@
+@import url('https://fonts.googleapis.com/css2?family=Ubuntu:ital,wght@0,300;0,400;0,500;0,700;1,300;1,400;1,500;1,700&display=swap');
+
+header {
+    background-color: #d7d7fa;
+    padding: 30px;
+    text-align: left;
+    font-size: 35px;
+    color: #3e4866;
+    margin: 0;
+  }
+
+  nav {
+    background-color: #f8f6ff;
+    padding: 5px;
+    text-align: center;
+    top: 0;
+    position: sticky;
+}
+
+nav ul {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+}
+
+nav ul li {
+    display: inline-block;
+    margin: 15px;
+}
+
+  nav ul li a {
+    text-decoration: none;
+    color: #3e4866;
+    font-size: 1.1em;
+    transition: color 0.3s ease;
+}
+
+nav ul li a:hover {
+    color: #d7d7fa;
+}
+  
+.vid{
+    text-align: center;
+}
+
+body {
+    background-color: #3e4866;
+    color: #d7d7fa;
+    margin: 0;
+}
+
+.pics {
+    display: inline-block;
+    margin-right: 30px;
+    vertical-align: bottom;
+    padding: 10px;
+}
+
+.photo {
+    float: right;
+    padding: 10px;
+}
+
+.start {
+    float: left;
+    padding: 10px;
+}
+
+article{
+    clear: both;
+    text-align: left;
+    padding: 10px;
+}
+
+footer {
+    background-color: #d7d7fa;
+    color: #3e4866;
+    padding: 5px;
+    text-align: center;
+    clear: both;
+}
