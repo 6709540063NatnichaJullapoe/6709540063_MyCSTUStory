@@ -110,11 +110,42 @@ article {
     text-align: center;
 }
 
+.prologueJourney {
+    padding: 10px;
+}
+
+.epilogueJourney {
+    padding: 10px;
+}
+
+.picjourney1 {
+    padding: 10px;
+    text-align: center;
+    clear: both;
+}
+
+.picjourney2 {
+    padding: 10px;
+    text-align: center;
+    clear: both;
+}
+
+.picjourney3 {
+    padding: 10px;
+    text-align: center;
+    clear: both;
+}
+
+.picjourney4 {
+    padding: 10px;
+    text-align: center;
+    clear: both;
+}
+
 footer {
     background-color: #d7d7fa;
     color: #3e4866;
-    padding-top: 30px;
-    padding-bottom: 5px;
+    padding: 1px;
     margin: 0;
     text-align: center;
     clear: both;
