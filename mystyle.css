@@ -142,6 +142,29 @@ article {
     clear: both;
 }
 
+.sky{
+    margin: 0;
+    padding: 0;
+}
+
+.futurePlan{
+    padding: 10px;
+}
+
+.work{
+    padding: 10px;
+    text-align: center;
+}
+
+.cat{
+    padding: 10px;
+    text-align: center;
+}
+
+.lastThing{
+    padding: 10px;
+}
+
 footer {
     background-color: #d7d7fa;
     color: #3e4866;
