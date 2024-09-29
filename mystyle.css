@@ -7,9 +7,9 @@ header {
     font-size: 35px;
     color: #3e4866;
     margin: 0;
-  }
+}
 
-  nav {
+nav {
     background-color: #f8f6ff;
     padding: 5px;
     text-align: center;
@@ -28,7 +28,7 @@ nav ul li {
     margin: 15px;
 }
 
-  nav ul li a {
+nav ul li a {
     text-decoration: none;
     color: #3e4866;
     font-size: 1.1em;
@@ -38,8 +38,8 @@ nav ul li {
 nav ul li a:hover {
     color: #d7d7fa;
 }
-  
-.vid{
+
+.vid {
     text-align: center;
 }
 
@@ -62,20 +62,60 @@ body {
 }
 
 .start {
+    padding: 10px;
+    margin: 10px;
+    margin-right: 20%;
     float: left;
+    clear: both;
+}
+
+article {
+    text-align: left;
     padding: 10px;
 }
 
-article{
-    clear: both;
-    text-align: left;
-    padding: 10px;
+.first_year {
+    background-color: #5f6893;
+    border-radius: 20px;
+    box-shadow: 10px #10101f1a;
+    margin: 20px;
+    padding: 20px;
+}
+
+.second_year {
+    background-color: #5f6893;
+    border-radius: 20px;
+    box-shadow: 10px #10101f1a;
+    margin: 20px;
+    padding: 20px;
+}
+
+.third_year {
+    background-color: #5f6893;
+    border-radius: 20px;
+    box-shadow: 10px #10101f1a;
+    margin: 20px;
+    padding: 20px;
+}
+
+.fourth_year {
+    background-color: #5f6893;
+    border-radius: 20px;
+    box-shadow: 10px #10101f1a;
+    margin: 20px;
+    padding: 20px;
+}
+
+.quote {
+    text-align: center;
 }
 
 footer {
     background-color: #d7d7fa;
     color: #3e4866;
-    padding: 5px;
+    padding-top: 30px;
+    padding-bottom: 5px;
+    margin: 0;
     text-align: center;
     clear: both;
 }
