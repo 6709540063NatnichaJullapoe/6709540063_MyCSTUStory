@@ -67,6 +67,25 @@ body {
     clear: both;
 }
 
+.profile{
+    margin: 20px;
+    padding: 0px;
+}
+
+.profile form fieldset{
+    border-radius: 10%;
+    border-color: #d7d7fa;
+}
+
+.profile form fieldset legend{
+    background-color: #d7d7fa;
+    border-radius: 30%;
+    color: #3e4866;
+    padding: 5px;
+    padding-top: 0;
+    padding-bottom: 0;
+}
+
 article {
     text-align: left;
     padding-left: 10%;
