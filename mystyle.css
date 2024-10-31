@@ -37,6 +37,8 @@ nav ul li a {
 
 nav ul li a:hover {
     color: #d7d7fa;
+    background-color: #3e4866;
+    padding: 22px;
 }
 
 .vid {
@@ -89,6 +91,12 @@ body {
 article {
     text-align: left;
     padding-left: 10%;
+    font-size: 15px;
+}
+
+main{
+    font-size: 15px;
+    margin: 10px;
 }
 
 .first_year {
@@ -130,10 +138,14 @@ article {
 
 .prologueJourney {
     padding: 10px;
+    font-size: 15px;
+    margin: 10px;
 }
 
 .epilogueJourney {
     padding: 10px;
+    font-size: 15px;
+    margin: 10px;
 }
 
 .picjourney1 {
@@ -167,6 +179,7 @@ article {
 
 .futurePlan{
     padding: 10px;
+    font-size: 15px;
 }
 
 .work{
@@ -181,6 +194,7 @@ article {
 
 .lastThing{
     padding: 10px;
+    font-size: 15px;
 }
 
 footer {
